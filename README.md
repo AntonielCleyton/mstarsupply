@@ -3,6 +3,9 @@
 Sistema desenvolvido para controle de mercadorias da empresa MStarSupply.
 Permite cadastro de mercadorias, entrada e saída, visualização gráfica e exportação em PDF de relatórios.
 
+![image](https://github.com/user-attachments/assets/6141c93c-0a29-4126-b788-6094525e8433)
+
+
 ---
 
 ## 📈 Tecnologias Utilizadas
